@@ -2,3 +2,10 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Personal working copies — Richard works through these locally, never uploaded.
+# Covers macOS Finder duplicates ("... copy.ipynb") plus opt-in conventions.
+*copy*.ipynb
+*Copy*.ipynb
+*_mywork.ipynb
+my-work/
